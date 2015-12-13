@@ -1,0 +1,4 @@
+"startup/startup_stm32f302x8.o"
+"src/main.o"
+"src/syscalls.o"
+"src/system_stm32f30x.o"

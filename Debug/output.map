@@ -1,0 +1,1775 @@
+Archive member included because of file (symbol)
+
+/home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+                              src/main.o (STM_EVAL_LEDInit)
+/home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+                              /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o) (ADC_Init)
+/home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+                              /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o) (EXTI_Init)
+/home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+                              /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o) (GPIO_Init)
+/home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+                              /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o) (NVIC_Init)
+/home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+                              src/main.o (RCC_GetClocksFreq)
+/home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+                              /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o) (SPI_Init)
+/home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+                              /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o) (SYSCFG_EXTILineConfig)
+/home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-errno.o)
+                              src/syscalls.o (__errno)
+/home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+                              /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (exit)
+/home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+                              /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+                              /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (__libc_init_array)
+/home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memset.o)
+                              /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (memset)
+/home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+                              /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+                              /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+                              /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+                              /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Allocating common symbols
+Common symbol       size              file
+
+RCC_Clocks          0x50              src/main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .data          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .data          0x00000000        0x4 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .text          0x00000000       0x74 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .data          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .text          0x00000000       0x14 startup/startup_stm32f302x8.o
+ .data          0x00000000        0x0 startup/startup_stm32f302x8.o
+ .bss           0x00000000        0x0 startup/startup_stm32f302x8.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .text          0x00000000        0x0 src/main.o
+ .data          0x00000000        0x0 src/main.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .group         0x00000000        0x8 src/syscalls.o
+ .text          0x00000000        0x0 src/syscalls.o
+ .data          0x00000000        0x4 src/syscalls.o
+ .bss           0x00000000        0x8 src/syscalls.o
+ .text.initialise_monitor_handles
+                0x00000000        0xc src/syscalls.o
+ .text._getpid  0x00000000       0x10 src/syscalls.o
+ .text._kill    0x00000000       0x20 src/syscalls.o
+ .text._exit    0x00000000       0x14 src/syscalls.o
+ .text._read    0x00000000       0x3c src/syscalls.o
+ .text._write   0x00000000       0x38 src/syscalls.o
+ .text._sbrk    0x00000000       0x58 src/syscalls.o
+ .text._close   0x00000000       0x18 src/syscalls.o
+ .text._fstat   0x00000000       0x20 src/syscalls.o
+ .text._isatty  0x00000000       0x18 src/syscalls.o
+ .text._lseek   0x00000000       0x1c src/syscalls.o
+ .text._open    0x00000000       0x1c src/syscalls.o
+ .text._wait    0x00000000       0x20 src/syscalls.o
+ .text._unlink  0x00000000       0x20 src/syscalls.o
+ .text._times   0x00000000       0x18 src/syscalls.o
+ .text._stat    0x00000000       0x20 src/syscalls.o
+ .text._link    0x00000000       0x20 src/syscalls.o
+ .text._fork    0x00000000       0x18 src/syscalls.o
+ .text._execve  0x00000000       0x24 src/syscalls.o
+ .debug_info    0x00000000      0x660 src/syscalls.o
+ .debug_abbrev  0x00000000      0x174 src/syscalls.o
+ .debug_aranges
+                0x00000000       0xb0 src/syscalls.o
+ .debug_ranges  0x00000000       0xa0 src/syscalls.o
+ .debug_macro   0x00000000      0x1a3 src/syscalls.o
+ .debug_macro   0x00000000      0x892 src/syscalls.o
+ .debug_macro   0x00000000       0x58 src/syscalls.o
+ .debug_macro   0x00000000       0x22 src/syscalls.o
+ .debug_macro   0x00000000       0x35 src/syscalls.o
+ .debug_macro   0x00000000       0x9c src/syscalls.o
+ .debug_macro   0x00000000      0x166 src/syscalls.o
+ .debug_macro   0x00000000       0x4a src/syscalls.o
+ .debug_macro   0x00000000       0x52 src/syscalls.o
+ .debug_macro   0x00000000       0x16 src/syscalls.o
+ .debug_macro   0x00000000       0x43 src/syscalls.o
+ .debug_macro   0x00000000      0x180 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x35 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x22 src/syscalls.o
+ .debug_macro   0x00000000       0xbd src/syscalls.o
+ .debug_macro   0x00000000       0x35 src/syscalls.o
+ .debug_macro   0x00000000      0x29d src/syscalls.o
+ .debug_macro   0x00000000      0x121 src/syscalls.o
+ .debug_macro   0x00000000       0x16 src/syscalls.o
+ .debug_macro   0x00000000       0x16 src/syscalls.o
+ .debug_macro   0x00000000       0x29 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000      0x241 src/syscalls.o
+ .debug_macro   0x00000000       0x1c src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x16 src/syscalls.o
+ .debug_macro   0x00000000      0x196 src/syscalls.o
+ .debug_macro   0x00000000      0x13e src/syscalls.o
+ .debug_macro   0x00000000       0x16 src/syscalls.o
+ .debug_macro   0x00000000       0x22 src/syscalls.o
+ .debug_line    0x00000000      0x56a src/syscalls.o
+ .debug_str     0x00000000     0x6746 src/syscalls.o
+ .comment       0x00000000       0x71 src/syscalls.o
+ .debug_frame   0x00000000      0x2d4 src/syscalls.o
+ .ARM.attributes
+                0x00000000       0x33 src/syscalls.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .group         0x00000000        0x8 src/system_stm32f30x.o
+ .text          0x00000000        0x0 src/system_stm32f30x.o
+ .data          0x00000000       0x14 src/system_stm32f30x.o
+ .bss           0x00000000        0x0 src/system_stm32f30x.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xd4 src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x892 src/system_stm32f30x.o
+ .debug_macro   0x00000000       0x76 src/system_stm32f30x.o
+ .debug_macro   0x00000000       0x3b src/system_stm32f30x.o
+ .debug_macro   0x00000000       0x22 src/system_stm32f30x.o
+ .debug_macro   0x00000000       0x44 src/system_stm32f30x.o
+ .debug_macro   0x00000000       0x1c src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x1f7 src/system_stm32f30x.o
+ .debug_macro   0x00000000       0x2d src/system_stm32f30x.o
+ .debug_macro   0x00000000       0x42 src/system_stm32f30x.o
+ .debug_macro   0x00000000      0xd39 src/system_stm32f30x.o
+ .debug_macro   0x00000000     0x9390 src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x5a6 src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x3cf src/system_stm32f30x.o
+ .debug_macro   0x00000000       0x46 src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x277 src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x1b6 src/system_stm32f30x.o
+ .debug_macro   0x00000000       0x8e src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x3a8 src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x114 src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x1e4 src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x1bd src/system_stm32f30x.o
+ .debug_macro   0x00000000     0x13d6 src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x264 src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x29a src/system_stm32f30x.o
+ .debug_macro   0x00000000       0x70 src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x10c src/system_stm32f30x.o
+ .debug_macro   0x00000000       0xb8 src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x66e src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x551 src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x3ab src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x8d8 src/system_stm32f30x.o
+ .debug_macro   0x00000000      0x364 src/system_stm32f30x.o
+ .debug_macro   0x00000000       0x34 src/system_stm32f30x.o
+ .debug_macro   0x00000000       0x89 src/system_stm32f30x.o
+ .debug_macro   0x00000000       0x35 src/system_stm32f30x.o
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .rodata        0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .text.STM_EVAL_LEDOn
+                0x00000000       0x28 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .text.STM_EVAL_LEDOff
+                0x00000000       0x28 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .text.STM_EVAL_PBGetState
+                0x00000000       0x2c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .text.STM_SPI_Init
+                0x00000000       0xd4 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .text.LCD_CtrlLines_Config
+                0x00000000       0x50 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .text.SD_CtrlLines_Config
+                0x00000000       0x40 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .text.STM_SPI_WriteRead
+                0x00000000       0x60 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .text.STM_ADC_Config
+                0x00000000      0x120 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .text.STM_Get_JOYState
+                0x00000000       0xb8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000       0x76 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000       0x3b /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000       0x22 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000       0x44 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x1f7 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000       0x2d /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000       0x42 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0xd39 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000     0x9390 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x5a6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x3cf /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000       0x46 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x277 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x1b6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000       0x8e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x3a8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x114 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x1e4 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x1bd /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000     0x13d6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x264 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x29a /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000       0x70 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x10c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000       0xb8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x66e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x551 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x3ab /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x8d8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000      0x364 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000       0x34 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000       0x89 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00000000       0x35 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .data          0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_DeInit
+                0x00000000       0x64 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_Init
+                0x00000000       0x80 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_StructInit
+                0x00000000       0x44 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_InjectedInit
+                0x00000000       0x60 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_InjectedStructInit
+                0x00000000       0x3c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_CommonInit
+                0x00000000       0x9c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_CommonStructInit
+                0x00000000       0x30 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_Cmd  0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_StartCalibration
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_GetCalibrationValue
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_SetCalibrationValue
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_SelectCalibrationMode
+                0x00000000       0x2c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_GetCalibrationStatus
+                0x00000000       0x2c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_DisableCmd
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_GetDisableCmdStatus
+                0x00000000       0x30 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_VoltageRegulatorCmd
+                0x00000000       0x44 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_SelectDifferentialMode
+                0x00000000       0x50 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_SelectQueueOfContextMode
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_AutoDelayCmd
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_AnalogWatchdogCmd
+                0x00000000       0x34 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_AnalogWatchdog1ThresholdsConfig
+                0x00000000       0x54 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_AnalogWatchdog2ThresholdsConfig
+                0x00000000       0x4c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_AnalogWatchdog3ThresholdsConfig
+                0x00000000       0x4c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_AnalogWatchdog1SingleChannelConfig
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_AnalogWatchdog2SingleChannelConfig
+                0x00000000       0x4c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_AnalogWatchdog3SingleChannelConfig
+                0x00000000       0x4c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_TempSensorCmd
+                0x00000000       0x3c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_VrefintCmd
+                0x00000000       0x74 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_VbatCmd
+                0x00000000       0x3c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_RegularChannelConfig
+                0x00000000      0x1f0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_RegularChannelSequencerLengthConfig
+                0x00000000       0x30 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_ExternalTriggerConfig
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_StartConversion
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_GetStartConversionStatus
+                0x00000000       0x30 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_StopConversion
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_DiscModeChannelCountConfig
+                0x00000000       0x44 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_DiscModeCmd
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_GetConversionValue
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_GetDualModeConversionValue
+                0x00000000       0x44 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_SetChannelOffset1
+                0x00000000       0x50 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_SetChannelOffset2
+                0x00000000       0x50 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_SetChannelOffset3
+                0x00000000       0x50 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_SetChannelOffset4
+                0x00000000       0x50 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_ChannelOffset1Cmd
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_ChannelOffset2Cmd
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_ChannelOffset3Cmd
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_ChannelOffset4Cmd
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_DMACmd
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_DMAConfig
+                0x00000000       0x2c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_InjectedChannelSampleTimeConfig
+                0x00000000       0xa0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_StartInjectedConversion
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_StopInjectedConversion
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_GetStartInjectedConversionStatus
+                0x00000000       0x30 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_AutoInjectedConvCmd
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_InjectedDiscModeCmd
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_GetInjectedConversionValue
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_ITConfig
+                0x00000000       0x3c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_GetFlagStatus
+                0x00000000       0x34 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_ClearFlag
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_GetCommonFlagStatus
+                0x00000000       0x60 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_ClearCommonFlag
+                0x00000000       0x4c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_GetITStatus
+                0x00000000       0x58 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .text.ADC_ClearITPendingBit
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_info    0x00000000     0x131f /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_abbrev  0x00000000      0x195 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_aranges
+                0x00000000      0x210 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_ranges  0x00000000      0x200 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x1a8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x88c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000       0x76 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000       0x3b /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000       0x22 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000       0x44 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x1f7 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000       0x2d /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000       0x42 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0xd39 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000     0x9390 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x3c9 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000       0x46 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x277 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x1b6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000       0x8e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x3a8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x114 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x1e4 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x1bd /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000     0x13d6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x264 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x29a /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000       0x70 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x10c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000       0xb8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x66e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x551 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x3ab /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x8d8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x364 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000       0x34 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000       0x89 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000       0x35 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_macro   0x00000000      0x5a6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_line    0x00000000      0xbc6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_str     0x00000000    0x6ff80 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .comment       0x00000000       0x71 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .debug_frame   0x00000000      0x9e4 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .ARM.attributes
+                0x00000000       0x33 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_adc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .data          0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .text.EXTI_DeInit
+                0x00000000       0x5c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .text.EXTI_StructInit
+                0x00000000       0x2c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x40 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x48 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .text.EXTI_ClearFlag
+                0x00000000       0x30 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .text.EXTI_GetITStatus
+                0x00000000       0x48 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .text.EXTI_ClearITPendingBit
+                0x00000000       0x30 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x88c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000       0x76 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000       0x3b /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000       0x22 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000       0x44 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x1f7 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000       0x2d /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000       0x42 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0xd39 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000     0x9390 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x5a6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x3cf /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000       0x46 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x277 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x1b6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000       0x8e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x3a8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x1e4 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x1bd /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000     0x13d6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x264 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x29a /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000       0x70 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x10c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000       0xb8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x66e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x551 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x3ab /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x8d8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000      0x364 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000       0x34 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000       0x89 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00000000       0x35 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .data          0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .text.GPIO_DeInit
+                0x00000000       0xd4 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .text.GPIO_StructInit
+                0x00000000       0x34 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .text.GPIO_PinLockConfig
+                0x00000000       0x44 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .text.GPIO_ReadInputDataBit
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .text.GPIO_ReadInputData
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .text.GPIO_ReadOutputDataBit
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .text.GPIO_ReadOutputData
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .text.GPIO_SetBits
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .text.GPIO_ResetBits
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .text.GPIO_WriteBit
+                0x00000000       0x30 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .text.GPIO_Write
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .text.GPIO_PinAFConfig
+                0x00000000       0x90 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x88c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000       0x76 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000       0x3b /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000       0x22 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000       0x44 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x1f7 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000       0x2d /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000       0x42 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0xd39 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000     0x9390 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x5a6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x3cf /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000       0x46 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x277 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x1b6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000       0x8e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x3a8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x114 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x1e4 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000     0x13d6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x264 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x29a /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000       0x70 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x10c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000       0xb8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x66e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x551 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x3ab /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x8d8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000      0x364 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000       0x34 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000       0x89 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00000000       0x35 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .data          0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x24 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .text.NVIC_SetVectorTable
+                0x00000000       0x2c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x40 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x88c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000       0x76 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000       0x3b /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000       0x22 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000       0x44 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x1f7 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000       0x2d /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000       0x42 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0xd39 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000     0x9390 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x5a6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x3cf /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000       0x46 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x277 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x1b6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000       0x8e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x3a8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x114 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x1e4 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x1bd /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000     0x13d6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x264 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x29a /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000       0x70 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x10c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000       0xb8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x66e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x551 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x3ab /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x8d8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000      0x364 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000       0x34 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00000000       0x35 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_DeInit
+                0x00000000       0x7c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_HSEConfig
+                0x00000000       0x24 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x50 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x3c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_HSICmd
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_LSEConfig
+                0x00000000       0x3c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_LSEDriveConfig
+                0x00000000       0x30 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_LSICmd
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_PLLConfig
+                0x00000000       0x34 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_PLLCmd
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_PREDIV1Config
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_MCOConfig
+                0x00000000       0x44 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_HCLKConfig
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_PCLK1Config
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_PCLK2Config
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_ADCCLKConfig
+                0x00000000       0x4c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_I2CCLKConfig
+                0x00000000       0x68 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_TIMCLKConfig
+                0x00000000       0x98 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_HRTIM1CLKConfig
+                0x00000000       0x30 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_USARTCLKConfig
+                0x00000000       0x98 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_USBCLKConfig
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x24 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_I2SCLKConfig
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_RTCCLKCmd
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_BackupResetCmd
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_APB1PeriphClockCmd
+                0x00000000       0x3c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_AHBPeriphResetCmd
+                0x00000000       0x3c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x3c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x3c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_ITConfig
+                0x00000000       0x4c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_GetFlagStatus
+                0x00000000       0x84 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_ClearFlag
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_GetITStatus
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .text.RCC_ClearITPendingBit
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x88c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000       0x76 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000       0x3b /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000       0x22 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000       0x44 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x1f7 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000       0x2d /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000       0x42 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0xd39 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000     0x9390 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x5a6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x3cf /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000       0x46 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x277 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x1b6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000       0x8e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x3a8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x114 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x1e4 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x1bd /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000     0x13d6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x264 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x29a /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000       0x70 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x10c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000       0xb8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x551 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x3ab /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x8d8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000      0x364 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000       0x34 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000       0x89 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00000000       0x35 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .data          0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_I2S_DeInit
+                0x00000000       0x74 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_StructInit
+                0x00000000       0x4c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_Init
+                0x00000000      0x114 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.I2S_StructInit
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.I2S_Init
+                0x00000000      0x17c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_Cmd  0x00000000       0x40 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_TIModeCmd
+                0x00000000       0x40 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.I2S_Cmd  0x00000000       0x40 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_DataSizeConfig
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_RxFIFOThresholdConfig
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x40 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x44 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.I2S_FullDuplexConfig
+                0x00000000       0x9c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_SSOutputCmd
+                0x00000000       0x40 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_NSSPulseModeCmd
+                0x00000000       0x40 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_SendData8
+                0x00000000       0x2c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_I2S_SendData16
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_ReceiveData8
+                0x00000000       0x28 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_I2S_ReceiveData16
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_CRCLengthConfig
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_CalculateCRC
+                0x00000000       0x40 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_TransmitCRC
+                0x00000000       0x24 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_GetCRC
+                0x00000000       0x34 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_GetCRCPolynomial
+                0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_I2S_DMACmd
+                0x00000000       0x48 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_LastDMATransferCmd
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_I2S_ITConfig
+                0x00000000       0x60 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_GetTransmissionFIFOStatus
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_GetReceptionFIFOStatus
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_I2S_GetFlagStatus
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_I2S_ClearFlag
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x78 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_info    0x00000000      0xbb6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_abbrev  0x00000000      0x18e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_aranges
+                0x00000000      0x118 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_ranges  0x00000000      0x108 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x1a5 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x88c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000       0x76 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000       0x3b /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000       0x22 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000       0x44 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x1f7 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000       0x2d /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000       0x42 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0xd39 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000     0x9390 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x5a6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x3cf /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000       0x46 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x277 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x1b6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000       0x8e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x3a8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x114 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x1e4 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x1bd /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000     0x13d6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x264 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x29a /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000       0x70 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x10c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000       0xb8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x66e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x551 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x8d8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x364 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000       0x34 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000       0x89 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000       0x35 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_macro   0x00000000      0x3a5 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_line    0x00000000      0x90a /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_str     0x00000000    0x6fbf0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .comment       0x00000000       0x71 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .debug_frame   0x00000000      0x508 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .ARM.attributes
+                0x00000000       0x33 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_spi.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .group         0x00000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .data          0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .text.SYSCFG_DeInit
+                0x00000000       0x54 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .text.SYSCFG_MemoryRemapConfig
+                0x00000000       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .text.SYSCFG_DMAChannelRemapConfig
+                0x00000000       0x68 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .text.SYSCFG_TriggerRemapConfig
+                0x00000000       0x68 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .text.SYSCFG_EncoderRemapConfig
+                0x00000000       0x30 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .text.SYSCFG_USBInterruptLineRemapCmd
+                0x00000000       0x20 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .text.SYSCFG_I2CFastModePlusConfig
+                0x00000000       0x3c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .text.SYSCFG_ITConfig
+                0x00000000       0x3c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .text.SYSCFG_BreakConfig
+                0x00000000       0x24 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .text.SYSCFG_BypassParityCheckDisable
+                0x00000000       0x18 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .text.SYSCFG_SRAMWRPEnable
+                0x00000000       0x24 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .text.SYSCFG_GetFlagStatus
+                0x00000000       0x34 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .text.SYSCFG_ClearFlag
+                0x00000000       0x24 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x88c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000       0x76 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000       0x3b /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000       0x22 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000       0x44 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000       0x1c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x1f7 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000       0x2d /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000       0x42 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0xd39 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000     0x9390 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x5a6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x3cf /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000       0x46 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x277 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x1b6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000       0x8e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x3a8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x114 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x1e4 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x1bd /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000     0x13d6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x29a /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000       0x70 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x10c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000       0xb8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x66e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x551 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x3ab /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x8d8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000      0x364 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000       0x34 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000       0x89 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00000000       0x35 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-errno.o)
+ .data          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-errno.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x9c /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x34 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2e /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xd4 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .data          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .eh_frame      0x00000000        0x4 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .jcr           0x00000000        0x4 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2e /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .text          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ .data          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ .bss           0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00010000         xr
+RAM              0x20000000         0x00004000         xrw
+MEMORY_B1        0x60000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+LOAD /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+LOAD /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+LOAD startup/startup_stm32f302x8.o
+LOAD src/main.o
+LOAD src/syscalls.o
+LOAD src/system_stm32f30x.o
+LOAD /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a
+LOAD /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libstdc++.a
+LOAD /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libm.a
+START GROUP
+LOAD /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/libgcc.a
+LOAD /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a
+END GROUP
+LOAD /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+LOAD /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+                0x20004000                _estack = 0x20004000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x188
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 startup/startup_stm32f302x8.o
+                0x08000000                g_pfnVectors
+                0x08000188                . = ALIGN (0x4)
+
+.text           0x08000188      0xf78
+                0x08000188                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000188       0x5c /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ *(.text*)
+ .text.Reset_Handler
+                0x080001e4       0x50 startup/startup_stm32f302x8.o
+                0x080001e4                Reset_Handler
+ .text.Default_Handler
+                0x08000234        0x2 startup/startup_stm32f302x8.o
+                0x08000234                RTC_Alarm_IRQHandler
+                0x08000234                DebugMon_Handler
+                0x08000234                TIM1_CC_IRQHandler
+                0x08000234                HardFault_Handler
+                0x08000234                USB_HP_IRQHandler
+                0x08000234                PVD_IRQHandler
+                0x08000234                PendSV_Handler
+                0x08000234                NMI_Handler
+                0x08000234                EXTI3_IRQHandler
+                0x08000234                I2C3_ER_IRQHandler
+                0x08000234                EXTI0_IRQHandler
+                0x08000234                I2C2_EV_IRQHandler
+                0x08000234                FPU_IRQHandler
+                0x08000234                EXTI2_TS_IRQHandler
+                0x08000234                TIM1_UP_TIM16_IRQHandler
+                0x08000234                UsageFault_Handler
+                0x08000234                TIM6_DAC_IRQHandler
+                0x08000234                DMA1_Channel4_IRQHandler
+                0x08000234                ADC1_IRQHandler
+                0x08000234                USART3_IRQHandler
+                0x08000234                DMA1_Channel7_IRQHandler
+                0x08000234                CAN1_RX1_IRQHandler
+                0x08000234                I2C1_EV_IRQHandler
+                0x08000234                DMA1_Channel6_IRQHandler
+                0x08000234                RCC_IRQHandler
+                0x08000234                DMA1_Channel1_IRQHandler
+                0x08000234                Default_Handler
+                0x08000234                USBWakeUp_RMP_IRQHandler
+                0x08000234                EXTI15_10_IRQHandler
+                0x08000234                COMP2_IRQHandler
+                0x08000234                I2C3_EV_IRQHandler
+                0x08000234                EXTI9_5_IRQHandler
+                0x08000234                TAMPER_STAMP_IRQHandler
+                0x08000234                RTC_WKUP_IRQHandler
+                0x08000234                SPI2_IRQHandler
+                0x08000234                MemManage_Handler
+                0x08000234                SVC_Handler
+                0x08000234                DMA1_Channel5_IRQHandler
+                0x08000234                USB_LP_IRQHandler
+                0x08000234                EXTI4_IRQHandler
+                0x08000234                USB_LP_CAN1_RX0_IRQHandler
+                0x08000234                TIM1_TRG_COM_TIM17_IRQHandler
+                0x08000234                USB_HP_CAN1_TX_IRQHandler
+                0x08000234                DMA1_Channel3_IRQHandler
+                0x08000234                WWDG_IRQHandler
+                0x08000234                TIM2_IRQHandler
+                0x08000234                EXTI1_IRQHandler
+                0x08000234                COMP4_6_IRQHandler
+                0x08000234                USART2_IRQHandler
+                0x08000234                I2C2_ER_IRQHandler
+                0x08000234                DMA1_Channel2_IRQHandler
+                0x08000234                CAN1_SCE_IRQHandler
+                0x08000234                FLASH_IRQHandler
+                0x08000234                BusFault_Handler
+                0x08000234                USART1_IRQHandler
+                0x08000234                SPI3_IRQHandler
+                0x08000234                I2C1_ER_IRQHandler
+                0x08000234                USBWakeUp_IRQHandler
+                0x08000234                TIM1_BRK_TIM15_IRQHandler
+ *fill*         0x08000236        0x2 
+ .text.NVIC_SetPriority
+                0x08000238       0x54 src/main.o
+ .text.SysTick_Config
+                0x0800028c       0x44 src/main.o
+ .text.main     0x080002d0       0x6c src/main.o
+                0x080002d0                main
+ .text.Delay    0x0800033c       0x28 src/main.o
+                0x0800033c                Delay
+ .text.SysTick_Handler
+                0x08000364       0x24 src/main.o
+                0x08000364                SysTick_Handler
+ .text.SystemInit
+                0x08000388       0x74 src/system_stm32f30x.o
+                0x08000388                SystemInit
+ .text.SetSysClock
+                0x080003fc       0x9c src/system_stm32f30x.o
+ .text.STM_EVAL_LEDInit
+                0x08000498       0x4c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+                0x08000498                STM_EVAL_LEDInit
+ .text.STM_EVAL_LEDToggle
+                0x080004e4       0x38 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+                0x080004e4                STM_EVAL_LEDToggle
+ .text.STM_EVAL_PBInit
+                0x0800051c       0x98 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+                0x0800051c                STM_EVAL_PBInit
+ .text.EXTI_Init
+                0x080005b4      0x1f4 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+                0x080005b4                EXTI_Init
+ .text.GPIO_Init
+                0x080007a8      0x130 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+                0x080007a8                GPIO_Init
+ .text.NVIC_Init
+                0x080008d8       0xc4 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+                0x080008d8                NVIC_Init
+ .text.RCC_GetClocksFreq
+                0x0800099c      0x510 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+                0x0800099c                RCC_GetClocksFreq
+ .text.RCC_AHBPeriphClockCmd
+                0x08000eac       0x3c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+                0x08000eac                RCC_AHBPeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x08000ee8       0x3c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+                0x08000ee8                RCC_APB2PeriphClockCmd
+ .text.SYSCFG_EXTILineConfig
+                0x08000f24       0x84 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+                0x08000f24                SYSCFG_EXTILineConfig
+ .text.__libc_init_array
+                0x08000fa8       0x50 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+                0x08000fa8                __libc_init_array
+ .text.startup.register_fini
+                0x08000ff8       0x14 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x0800100c        0xc /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+                0x0800100c                atexit
+ .text.__libc_fini_array
+                0x08001018       0x2c /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+                0x08001018                __libc_fini_array
+ .text.__register_exitproc
+                0x08001044       0xa4 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+                0x08001044                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x080010e8        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ *(.init)
+ .init          0x080010e8        0x4 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+                0x080010e8                _init
+ .init          0x080010ec        0x8 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ *(.fini)
+ .fini          0x080010f4        0x4 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+                0x080010f4                _fini
+ .fini          0x080010f8        0x8 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+                0x08001100                . = ALIGN (0x4)
+                0x08001100                _etext = .
+
+.vfp11_veneer   0x08001100        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08001100        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08001100        0x0
+ .iplt          0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.rodata         0x08001100        0x8
+                0x08001100                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.4
+                0x08001100        0x4 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x08001104        0x4 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+                0x08001104                _global_impure_ptr
+                0x08001108                . = ALIGN (0x4)
+
+.rel.dyn        0x08001108        0x0
+ .rel.iplt      0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08001108        0x0
+                0x08001108                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08001108                __exidx_end = .
+
+.preinit_array  0x08001108        0x0
+                0x08001108                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x08001108                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x08001108        0x8
+                0x08001108                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x08001108        0x4 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x0800110c        0x4 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+                0x08001110                PROVIDE (__init_array_end, .)
+
+.fini_array     0x08001110        0x4
+                0x08001110                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08001110        0x4 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+                0x08001114                PROVIDE (__fini_array_end, .)
+                0x08001114                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x460 load address 0x08001114
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000        0x8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+                0x20000000                GPIO_PORT
+                0x20000004                BUTTON_PORT
+ .data          0x20000008       0x30 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ *(.data*)
+ .data.impure_data
+                0x20000038      0x428 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+                0x20000460                . = ALIGN (0x4)
+                0x20000460                _edata = .
+
+.jcr            0x20000460        0x0 load address 0x08001574
+ .jcr           0x20000460        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.igot.plt       0x20000460        0x0 load address 0x08001574
+ .igot.plt      0x00000000        0x0 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+                0x20000460                . = ALIGN (0x4)
+
+.bss            0x20000460       0x74 load address 0x08001574
+                0x20000460                _sbss = .
+                0x20000460                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000460       0x1c /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .bss           0x2000047c        0x8 src/main.o
+                0x20000480                BlinkSpeed
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x20000484       0x50 src/main.o
+                0x20000484                RCC_Clocks
+                0x200004d4                . = ALIGN (0x4)
+                0x200004d4                _ebss = .
+                0x200004d4                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200004d4      0x604 load address 0x08001574
+                0x200004d8                . = ALIGN (0x8)
+ *fill*         0x200004d4        0x4 
+                0x200004d8                PROVIDE (end, .)
+                0x200004d8                PROVIDE (_end, .)
+                0x200006d8                . = (. + _Min_Heap_Size)
+ *fill*         0x200004d8      0x200 
+                0x20000ad8                . = (. + _Min_Stack_Size)
+ *fill*         0x200006d8      0x400 
+                0x20000ad8                . = ALIGN (0x8)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x21 startup/startup_stm32f302x8.o
+ .ARM.attributes
+                0x0000006d       0x33 src/main.o
+ .ARM.attributes
+                0x000000a0       0x33 src/system_stm32f30x.o
+ .ARM.attributes
+                0x000000d3       0x33 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .ARM.attributes
+                0x00000106       0x33 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .ARM.attributes
+                0x00000139       0x33 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .ARM.attributes
+                0x0000016c       0x33 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .ARM.attributes
+                0x0000019f       0x33 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .ARM.attributes
+                0x000001d2       0x33 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .ARM.attributes
+                0x00000205       0x2e /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000233       0x2e /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000261       0x2e /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000028f       0x2e /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000002bd       0x2e /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000002eb       0x2e /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000319       0x1e /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+OUTPUT(first.elf elf32-littlearm)
+
+.debug_line     0x00000000     0x3b97
+ .debug_line    0x00000000       0x7f startup/startup_stm32f302x8.o
+ .debug_line    0x0000007f      0x6e5 src/main.o
+ .debug_line    0x00000764      0x66e src/system_stm32f30x.o
+ .debug_line    0x00000dd2      0x7d4 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_line    0x000015a6      0x6ce /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_line    0x00001c74      0x74f /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_line    0x000023c3      0x67d /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_line    0x00002a40      0xa22 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_line    0x00003462      0x735 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+
+.debug_info     0x00000000     0x389f
+ .debug_info    0x00000000       0x71 startup/startup_stm32f302x8.o
+ .debug_info    0x00000071      0x77b src/main.o
+ .debug_info    0x000007ec      0x474 src/system_stm32f30x.o
+ .debug_info    0x00000c60      0xd82 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_info    0x000019e2      0x3ad /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_info    0x00001d8f      0x611 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_info    0x000023a0      0x545 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_info    0x000028e5      0xb34 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_info    0x00003419      0x486 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+
+.debug_abbrev   0x00000000      0xce4
+ .debug_abbrev  0x00000000       0x12 startup/startup_stm32f302x8.o
+ .debug_abbrev  0x00000012      0x1d4 src/main.o
+ .debug_abbrev  0x000001e6      0x12b src/system_stm32f30x.o
+ .debug_abbrev  0x00000311      0x1f4 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_abbrev  0x00000505      0x17f /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_abbrev  0x00000684      0x1a8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_abbrev  0x0000082c      0x14a /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_abbrev  0x00000976      0x1e8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_abbrev  0x00000b5e      0x186 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+
+.debug_aranges  0x00000000      0x408
+ .debug_aranges
+                0x00000000       0x28 startup/startup_stm32f302x8.o
+ .debug_aranges
+                0x00000028       0x40 src/main.o
+ .debug_aranges
+                0x00000068       0x30 src/system_stm32f30x.o
+ .debug_aranges
+                0x00000098       0x78 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_aranges
+                0x00000110       0x58 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_aranges
+                0x00000168       0x80 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_aranges
+                0x000001e8       0x40 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_aranges
+                0x00000228      0x158 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_aranges
+                0x00000380       0x88 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+
+.debug_ranges   0x00000000      0x380
+ .debug_ranges  0x00000000       0x20 startup/startup_stm32f302x8.o
+ .debug_ranges  0x00000020       0x30 src/main.o
+ .debug_ranges  0x00000050       0x20 src/system_stm32f30x.o
+ .debug_ranges  0x00000070       0x68 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_ranges  0x000000d8       0x48 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_ranges  0x00000120       0x70 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_ranges  0x00000190       0x30 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_ranges  0x000001c0      0x148 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_ranges  0x00000308       0x78 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+
+.debug_macro    0x00000000    0x11fec
+ .debug_macro   0x00000000      0x18b src/main.o
+ .debug_macro   0x0000018b      0x892 src/main.o
+ .debug_macro   0x00000a1d       0x76 src/main.o
+ .debug_macro   0x00000a93       0x3b src/main.o
+ .debug_macro   0x00000ace       0x22 src/main.o
+ .debug_macro   0x00000af0       0x44 src/main.o
+ .debug_macro   0x00000b34       0x1c src/main.o
+ .debug_macro   0x00000b50      0x1f7 src/main.o
+ .debug_macro   0x00000d47       0x2d src/main.o
+ .debug_macro   0x00000d74       0x42 src/main.o
+ .debug_macro   0x00000db6      0xd39 src/main.o
+ .debug_macro   0x00001aef     0x9390 src/main.o
+ .debug_macro   0x0000ae7f      0x5a6 src/main.o
+ .debug_macro   0x0000b425      0x3cf src/main.o
+ .debug_macro   0x0000b7f4       0x46 src/main.o
+ .debug_macro   0x0000b83a      0x277 src/main.o
+ .debug_macro   0x0000bab1      0x1b6 src/main.o
+ .debug_macro   0x0000bc67       0x8e src/main.o
+ .debug_macro   0x0000bcf5      0x3a8 src/main.o
+ .debug_macro   0x0000c09d      0x114 src/main.o
+ .debug_macro   0x0000c1b1      0x1e4 src/main.o
+ .debug_macro   0x0000c395      0x1bd src/main.o
+ .debug_macro   0x0000c552     0x13d6 src/main.o
+ .debug_macro   0x0000d928      0x264 src/main.o
+ .debug_macro   0x0000db8c      0x29a src/main.o
+ .debug_macro   0x0000de26       0x70 src/main.o
+ .debug_macro   0x0000de96      0x10c src/main.o
+ .debug_macro   0x0000dfa2       0xb8 src/main.o
+ .debug_macro   0x0000e05a      0x66e src/main.o
+ .debug_macro   0x0000e6c8      0x551 src/main.o
+ .debug_macro   0x0000ec19      0x3ab src/main.o
+ .debug_macro   0x0000efc4      0x8d8 src/main.o
+ .debug_macro   0x0000f89c      0x364 src/main.o
+ .debug_macro   0x0000fc00       0x34 src/main.o
+ .debug_macro   0x0000fc34       0x89 src/main.o
+ .debug_macro   0x0000fcbd       0x35 src/main.o
+ .debug_macro   0x0000fcf2      0x157 src/main.o
+ .debug_macro   0x0000fe49      0x18e src/system_stm32f30x.o
+ .debug_macro   0x0000ffd7      0x191 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00010168      0x88c /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x000109f4      0x151 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_macro   0x00010b45      0x192 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00010cd7      0x10e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_macro   0x00010de5      0x190 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x00010f75      0x1b7 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_macro   0x0001112c      0x192 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x000112be       0x83 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_macro   0x00011341      0x229 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x0001156a      0x668 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_macro   0x00011bd2      0x1bc /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_macro   0x00011d8e      0x25e /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+
+.debug_str      0x00000000    0x71903
+ .debug_str     0x00000000    0x6ff5e src/main.o
+                              0x700f6 (size before relaxing)
+ .debug_str     0x0006ff5e      0x126 src/system_stm32f30x.o
+                              0x6f654 (size before relaxing)
+ .debug_str     0x00070084      0x7e0 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+                              0x70647 (size before relaxing)
+ .debug_str     0x00070864      0x128 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+                              0x6f6f6 (size before relaxing)
+ .debug_str     0x0007098c      0x173 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+                              0x6f807 (size before relaxing)
+ .debug_str     0x00070aff      0x12f /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+                              0x6f759 (size before relaxing)
+ .debug_str     0x00070c2e      0x8df /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+                              0x70045 (size before relaxing)
+ .debug_str     0x0007150d      0x3f6 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+                              0x6f965 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 src/main.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 src/system_stm32f30x.o
+ .comment       0x00000000       0x71 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .comment       0x00000000       0x71 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .comment       0x00000000       0x71 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .comment       0x00000000       0x71 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .comment       0x00000000       0x71 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .comment       0x00000000       0x71 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+
+.debug_frame    0x00000000     0x10a4
+ .debug_frame   0x00000000       0xc0 src/main.o
+ .debug_frame   0x000000c0       0x7c src/system_stm32f30x.o
+ .debug_frame   0x0000013c      0x1cc /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f3xx_nucleo.o)
+ .debug_frame   0x00000308      0x148 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_exti.o)
+ .debug_frame   0x00000450      0x214 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_gpio.o)
+ .debug_frame   0x00000664       0xd8 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_misc.o)
+ .debug_frame   0x0000073c      0x634 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_rcc.o)
+ .debug_frame   0x00000d70      0x230 /home/rationalash/Ac6/workspace/nucleo-f302r8_stdperiph_lib/Debug/libnucleo-f302r8_stdperiph_lib.a(stm32f30x_syscfg.o)
+ .debug_frame   0x00000fa0       0x2c /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-init.o)
+ .debug_frame   0x00000fcc       0x50 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000101c       0x20 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000103c       0x34 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-fini.o)
+ .debug_frame   0x00001070       0x34 /home/rationalash/Ac6/SystemWorkbench/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.3.0.201507241112/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc.a(lib_a-__atexit.o)
